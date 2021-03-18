@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeewanTongale
-- 👀 I’m interested in Software Development role
+- 👀 I’m interested in Software Development Role
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on Flutter and Unity Game Engine Projects
 - 📫 How to reach me Jeewantongale@gmail.com
